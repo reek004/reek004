@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Local Gym Website**
 
-- 🌱 I’m currently learning **Fullstack Development**
+- 🌱 I’m currently learning **Web3**
 
-- 💬 Ask me about **react, angular**
+- 💬 Ask me about **react, node.js**
 
 - 📫 How to reach me **chatterjeeswarnabha@gmail.com**
 
