@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swarnabha Chatterjee</h1>
-<h3 align="center">I'm a IT undergrad Student, Frontend Developer!!</h3>
+<h3 align="center">I'm a IT undergrad Student, FullStack Developer!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=reek004&label=Profile%20views&color=0e75b6&style=flat" alt="reek004" /> </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=reek004&theme=discord&column=-1" alt="reek004" /></a> </p>
 
-- 🔭 I’m currently working on **Local Gym Website**
+- 🔭 I’m currently working on **NFT MarketPlace**
 
 - 🌱 I’m currently learning **Web3**
 
